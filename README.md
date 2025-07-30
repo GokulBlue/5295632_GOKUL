@@ -1,2 +1,10 @@
 # 5295632_GOKUL
 ![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/SDLC/5295632_GOKUL.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-30%20182848.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-30%20183637.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-30%20183648.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-30%20183655.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-30%20183700.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-30%20183707.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-30%20183714.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-30%20183720.png)
