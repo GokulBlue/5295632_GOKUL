@@ -8,3 +8,7 @@
 ![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-30%20183707.png)
 ![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-30%20183714.png)
 ![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-30%20183720.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-31%20124713.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-31%20124720.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-31%20124726.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-31%20124732.png)
