@@ -12,3 +12,5 @@
 ![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-31%20124720.png)
 ![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-31%20124726.png)
 ![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/Linux/Screenshot%202025-07-31%20124732.png)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/SDLC/Introduction%20to%20C.jpg)
+![Image](https://github.com/GokulBlue/5295632_GOKUL/blob/main/SDLC/C%20Intermediate.jpg)
